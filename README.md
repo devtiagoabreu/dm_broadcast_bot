@@ -6,7 +6,7 @@
 [![Slack API](https://img.shields.io/badge/Slack-API-red.svg)](https://api.slack.com/)
 
 **Sistema profissional de automação de envio de mensagens diretas no Slack** com interface gráfica moderna, múltiplas listas de usuários e suporte a arquivos multimídia.
-
+![alt text](image.png)
 ---
 
 ## ✨ Funcionalidades Principais
